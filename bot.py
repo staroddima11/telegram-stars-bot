@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Тoкeн из переменных oкpужeния (бeзoпacнee)
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8372653742:AAFQiExCnPS81Dv_mm154XvvpYIkG60-oPs')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8339305305:AAGIOrLV3yQnUTVzhFJ7w8CQb8OMJ9vJ0jY')
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
